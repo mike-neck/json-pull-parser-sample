@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry sourcepath="C:/Users/mike/.gradle/caches/artifacts-23/filestore/net.vvakame/jsonpullparser-core/1.6.1/source/f420fff98d6461261bc98e038a1a667c099fd373/jsonpullparser-core-1.6.1-sources.jar" kind="lib" path="C:/Users/mike/.gradle/caches/artifacts-23/filestore/net.vvakame/jsonpullparser-core/1.6.1/jar/95c7fe8c8ba30c680a435108422f5d2c78f0e189/jsonpullparser-core-1.6.1.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/mike/.gradle/caches/artifacts-23/filestore/junit/junit/4.11/source/28e0ad201304e4a4abf999ca0570b7cffc352c3c/junit-4.11-sources.jar" kind="lib" path="C:/Users/mike/.gradle/caches/artifacts-23/filestore/junit/junit/4.11/jar/4e031bb61df09069aeb2bffb4019e7a5034a4ee0/junit-4.11.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/mike/.gradle/caches/artifacts-23/filestore/org.hamcrest/hamcrest-library/1.3/source/47a7ee46628ab7133129cd7cef1e92657bc275e/hamcrest-library-1.3-sources.jar" kind="lib" path="C:/Users/mike/.gradle/caches/artifacts-23/filestore/org.hamcrest/hamcrest-library/1.3/jar/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/mike/.gradle/caches/artifacts-23/filestore/com.google.code.gson/gson/2.2.2/source/2841612c7a99a9ff1f7f570a2ddaa8665928a1e6/gson-2.2.2-sources.jar" kind="lib" path="C:/Users/mike/.gradle/caches/artifacts-23/filestore/com.google.code.gson/gson/2.2.2/jar/1f96456ca233dec780aa224bff076d8e8bca3908/gson-2.2.2.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/mike/.gradle/caches/artifacts-23/filestore/org.hamcrest/hamcrest-core/1.3/source/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar" kind="lib" path="C:/Users/mike/.gradle/caches/artifacts-23/filestore/org.hamcrest/hamcrest-core/1.3/jar/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar" exported="true"/>
+</classpath>
