@@ -29,3 +29,6 @@ dependencies {
     }
 }
 
+tasks.eclipse.doLast {
+	configurations.annotationProcessor.asPath
+}
